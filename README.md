@@ -7,6 +7,6 @@ HoloViews is supported by Anaconda and plays well with the PyViz family of libra
 
 This directory contains several examples, as notebooks or stand-alone apps, for:
 * [Basic Plotting](https://github.com/ernestk-git/data-scientist-ish/blob/master/data_viz/Panel_Plotting.ipynb)
-* Interactivity
+* [Interactivity](https://github.com/ernestk-git/holoviz_extended/blob/master/Panel_Interactive.ipynb)
 * Streaming
 
